@@ -264,7 +264,7 @@ $(function() {
 
 //Google Map
 function initMap() {
-    var uluru = {lat: -1.283816662791512, lng: 36.81950926780701}; //enter latitude and longitude of location
+    var uluru = {lat:53.58634304596725, lng:-113.4689438171719}; //enter latitude and longitude of location
     var map = new google.maps.Map(document.getElementById('map'), {
         zoom: 14,
         center: uluru,
